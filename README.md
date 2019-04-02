@@ -3,12 +3,12 @@
 
 ## Intro
 
-TO DO explain project
+Lorem ipsum...
 
 ## Function Descripcion
 
-TO DO describe functionality
+Lorem ipsum...
 
 ## Technical Description
 
-TO DO describe specs
+Lorem ipsum...
